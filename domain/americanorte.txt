@@ -1,0 +1,7 @@
+.ca
+.us
+.mx 
+.com.mx 
+.net.mx 
+.org.mx
+.pm 
